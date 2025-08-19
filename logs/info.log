@@ -1,0 +1,49 @@
+[2025-08-19T14:31:58.081Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:32:30.062Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:32:31.189Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:33:25.286Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:33:48.758Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:34:32.203Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:34:53.616Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:34:53.616Z"}
+[2025-08-19T14:34:53.655Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"IMG_E7679.JPG","filename":"3bff0c51-d6c3-47f7-9143-0406d0d1308b.JPG","type":"img","size":1689717}
+[2025-08-19T14:34:53.781Z] [INFO] Imagem comprimida com sucesso | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\3bff0c51-d6c3-47f7-9143-0406d0d1308b.JPG","compressedPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\3bff0c51-d6c3-47f7-9143-0406d0d1308b_compressed.JPG"}
+[2025-08-19T14:34:53.782Z] [INFO] Upload realizado com sucesso | Data: {"filename":"3bff0c51-d6c3-47f7-9143-0406d0d1308b.JPG","type":"img","size":1689717,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\3bff0c51-d6c3-47f7-9143-0406d0d1308b_compressed.JPG"}
+[2025-08-19T14:36:20.236Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:36:20.236Z"}
+[2025-08-19T14:36:20.259Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"IMG_E7679.JPG","filename":"e245c787-dd4d-4c90-b412-e51a13a55078.JPG","type":"img","size":1689717}
+[2025-08-19T14:36:20.378Z] [INFO] Imagem comprimida com sucesso | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\e245c787-dd4d-4c90-b412-e51a13a55078.JPG","compressedPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\e245c787-dd4d-4c90-b412-e51a13a55078_compressed.JPG"}
+[2025-08-19T14:36:20.379Z] [INFO] Upload realizado com sucesso | Data: {"filename":"e245c787-dd4d-4c90-b412-e51a13a55078.JPG","type":"img","size":1689717,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\e245c787-dd4d-4c90-b412-e51a13a55078_compressed.JPG"}
+[2025-08-19T14:36:29.115Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:36:29.114Z"}
+[2025-08-19T14:36:29.341Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"IMG_E7743.MOV","filename":"9ac11693-826b-45fe-91f4-ba5105c4e379.MOV","type":"video","size":40318362}
+[2025-08-19T14:36:29.343Z] [INFO] Upload realizado com sucesso | Data: {"filename":"9ac11693-826b-45fe-91f4-ba5105c4e379.MOV","type":"video","size":40318362,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\video\\9ac11693-826b-45fe-91f4-ba5105c4e379.MOV"}
+[2025-08-19T14:37:31.093Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:37:31.092Z"}
+[2025-08-19T14:37:31.112Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"VID-20230809-WA0028.mp4","filename":"5abe9f78-119c-4fcd-ba3a-f9efebf9dd5f.mp4","type":"video","size":2341301}
+[2025-08-19T14:37:31.113Z] [INFO] Upload realizado com sucesso | Data: {"filename":"5abe9f78-119c-4fcd-ba3a-f9efebf9dd5f.mp4","type":"video","size":2341301,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\video\\5abe9f78-119c-4fcd-ba3a-f9efebf9dd5f.mp4"}
+[2025-08-19T14:42:09.691Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:43:10.346Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:44:54.787Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:45:52.911Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:46:39.686Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T14:49:01.273Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:49:01.272Z"}
+[2025-08-19T14:49:01.326Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"VID-20230809-WA0028.mp4","filename":"3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4","type":"video","size":2341301}
+[2025-08-19T14:49:01.327Z] [INFO] Iniciando compressão: 3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4
+[2025-08-19T14:49:02.718Z] [INFO] Arquivo processado com compressão | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\video\\3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4","finalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\video\\3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4"}
+[2025-08-19T14:49:02.718Z] [INFO] Upload realizado com sucesso | Data: {"filename":"3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4","type":"video","size":2341301,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\video\\3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4"}
+[2025-08-19T14:49:14.640Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:49:14.640Z"}
+[2025-08-19T14:49:14.657Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"cart lab front.png","filename":"eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png","type":"img","size":688058}
+[2025-08-19T14:49:14.658Z] [INFO] Iniciando compressão: eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png
+[2025-08-19T14:49:14.690Z] [INFO] Imagem comprimida: eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png
+[2025-08-19T14:49:14.692Z] [INFO] Arquivo processado com compressão | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png","finalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\eb0441fb-ff05-4c54-b6a9-676e8b0beb44_compressed.png"}
+[2025-08-19T14:49:14.693Z] [INFO] Upload realizado com sucesso | Data: {"filename":"eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png","type":"img","size":688058,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\img\\eb0441fb-ff05-4c54-b6a9-676e8b0beb44_compressed.png"}
+[2025-08-19T14:49:30.744Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:49:30.744Z"}
+[2025-08-19T14:49:30.782Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"CÃ³digo e Sonho em Angola.mp3","filename":"6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3","type":"audio","size":3951981}
+[2025-08-19T14:49:30.783Z] [INFO] Iniciando compressão: 6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3
+[2025-08-19T14:49:30.825Z] [INFO] Arquivo processado com compressão | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\audio\\6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3","finalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\audio\\6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3"}
+[2025-08-19T14:49:30.826Z] [INFO] Upload realizado com sucesso | Data: {"filename":"6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3","type":"audio","size":3951981,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\audio\\6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3"}
+[2025-08-19T14:49:45.264Z] [INFO] POST /upload | Data: {"ip":"::ffff:127.0.0.1","userAgent":"insomnia/10.3.1","timestamp":"2025-08-19T14:49:45.252Z"}
+[2025-08-19T14:49:45.283Z] [INFO] Iniciando processamento de upload | Data: {"originalName":"jovÃ¢nia Bernardo.pdf","filename":"f547058d-98a6-41fe-86ca-58036a3b92b1.pdf","type":"doc","size":72174}
+[2025-08-19T14:49:45.284Z] [INFO] Iniciando compressão: f547058d-98a6-41fe-86ca-58036a3b92b1.pdf
+[2025-08-19T14:49:45.331Z] [INFO] Arquivo processado com compressão | Data: {"originalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\doc\\f547058d-98a6-41fe-86ca-58036a3b92b1.pdf","finalPath":"C:\\Dev\\automacoes-work\\upload\\uploads\\doc\\f547058d-98a6-41fe-86ca-58036a3b92b1.pdf"}
+[2025-08-19T14:49:45.332Z] [INFO] Upload realizado com sucesso | Data: {"filename":"f547058d-98a6-41fe-86ca-58036a3b92b1.pdf","type":"doc","size":72174,"path":"C:\\Dev\\automacoes-work\\upload\\uploads\\doc\\f547058d-98a6-41fe-86ca-58036a3b92b1.pdf"}
+[2025-08-19T15:08:57.874Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T15:12:06.329Z] [INFO] Servidor iniciado na porta 3000
+[2025-08-19T15:14:46.925Z] [INFO] Servidor iniciado na porta 3000

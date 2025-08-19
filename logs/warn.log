@@ -1,0 +1,12 @@
+[2025-08-19T14:49:02.716Z] [WARN] Erro na compressão de vídeo: Command failed: ffmpeg -version
+'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-08-19T14:49:30.823Z] [WARN] Erro na compressão de áudio: Command failed: ffmpeg -version
+'ffmpeg' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-08-19T14:49:45.330Z] [WARN] Erro na compressão de documento: Command failed: gs --version
+'gs' is not recognized as an internal or external command,
+operable program or batch file.
+

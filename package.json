@@ -1,0 +1,30 @@
+{
+  "name": "upload-api",
+  "version": "1.0.0",
+  "description": "api de upload de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js",
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [
+    "upload",
+    "softhard",
+    "sh",
+    "ao",
+    "angola"
+  ],
+  "author": "André Bravo - Lab. SH",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.10",
+    "sharp": "^0.34.3",
+    "uuid": "^11.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+[2025-08-19T14:34:53.622Z] [DEBUG] Processando upload: IMG_E7679.JPG -> img
+[2025-08-19T14:34:53.625Z] [DEBUG] Nome do arquivo gerado: 3bff0c51-d6c3-47f7-9143-0406d0d1308b.JPG
+[2025-08-19T14:36:20.238Z] [DEBUG] Processando upload: IMG_E7679.JPG -> img
+[2025-08-19T14:36:20.239Z] [DEBUG] Nome do arquivo gerado: e245c787-dd4d-4c90-b412-e51a13a55078.JPG
+[2025-08-19T14:36:29.116Z] [DEBUG] Processando upload: IMG_E7743.MOV -> video
+[2025-08-19T14:36:29.117Z] [DEBUG] Nome do arquivo gerado: 9ac11693-826b-45fe-91f4-ba5105c4e379.MOV
+[2025-08-19T14:37:31.095Z] [DEBUG] Processando upload: VID-20230809-WA0028.mp4 -> video
+[2025-08-19T14:37:31.096Z] [DEBUG] Nome do arquivo gerado: 5abe9f78-119c-4fcd-ba3a-f9efebf9dd5f.mp4
+[2025-08-19T14:49:01.280Z] [DEBUG] Processando upload: VID-20230809-WA0028.mp4 -> video
+[2025-08-19T14:49:01.282Z] [DEBUG] Nome do arquivo gerado: 3277c01c-a4dc-4db1-8c74-0eb3ac1acef7.mp4
+[2025-08-19T14:49:14.643Z] [DEBUG] Processando upload: cart lab front.png -> img
+[2025-08-19T14:49:14.645Z] [DEBUG] Nome do arquivo gerado: eb0441fb-ff05-4c54-b6a9-676e8b0beb44.png
+[2025-08-19T14:49:30.746Z] [DEBUG] Processando upload: CÃ³digo e Sonho em Angola.mp3 -> audio
+[2025-08-19T14:49:30.746Z] [DEBUG] Nome do arquivo gerado: 6ef65422-5d1c-4fa8-9749-70066f983ef0.mp3
+[2025-08-19T14:49:45.265Z] [DEBUG] Processando upload: jovÃ¢nia Bernardo.pdf -> doc
+[2025-08-19T14:49:45.266Z] [DEBUG] Nome do arquivo gerado: f547058d-98a6-41fe-86ca-58036a3b92b1.pdf
